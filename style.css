@@ -1,21 +1,49 @@
 .navbar {
-    height: 400px;
+    background-color: white;
 }
 
 .navbar-brand {
     text-align: center;
-  padding: 20px;
-  font-family: 'Georgia', Times, Times New Roman, serif;
-  font-size: 20px;
-  line-height: 150%;
-  color: white;
-  background-color: #4aaaa5;
-  width: 200px;
-  float: left;
-  font-weight: 700;
+    padding: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 20px;
+    line-height: 150%;
+    color: white;
+    background-color: #4aaaa5;
+    width: 200px;
+    float: left;
+    font-weight: 700;
 }
 
 header {
     width: 960px;
     margin: auto;
-  }
+}
+
+body {
+    background-image: url('images/concrete-texture.png');
+}
+
+#box {
+    background-color: white;
+    padding: 15px;
+    height: 500px;
+    border: 1px solid lightgray;
+}
+
+.img-responsive #aboutme {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    font-weight: 700;
+    font-size: 24px;
+    padding: 20px;
+}
+
+
+#aboutme {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    font-weight: 700;
+    font-size: 24px;
+    padding: 20px;
+}
