@@ -98,3 +98,20 @@ li a{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     cursor: pointer; 
  }
+
+.thumbnail {
+    position: relative; 
+}
+
+.caption {
+    position: absolute;
+    top: 61%;
+    left: 111px;
+    width: 36%;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;   
+}
+
+.thumbnail .caption {
+    color: white;
+}
