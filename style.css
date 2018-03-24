@@ -41,7 +41,7 @@ body {
     height: 920px;
     border: 1px solid lightgray;
     padding-top: 90px;
-    margin-top: 90px;
+    margin-top: 10px;
 }
 .img-responsive #aboutme {
     font-family: 'Georgia', Times, Times New Roman, serif;
